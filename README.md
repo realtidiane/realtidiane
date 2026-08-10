@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+> Étudiant en Licence 3 Cybersécurité | EC2LT Dakar | Passionné par la cybersécurité offensive, la forensique et l'audit SIEM |<br><br>*Location :* Dakar, Sénégal 🇸🇳<br><br>---<br><br>*🛠️ Tech Stack*<br><br>*Sécurité :*<br>- Pentesting (recon, exploitation, post-exploitation)<br>- Forensique numérique<br>- SIEM (gestion des événements de sécurité)<br>- Active Directory<br>- Audit ISO 27005<br><br>*DevOps & Automation :*<br>- Ansible (automatisation)<br>- Git / GitHub<br>- Docker<br><br>*Développement :*<br>- Python<br>- React / TypeScript<br>- Node.js<br>- SQL<br><br><br>*OS & Réseaux :*<br>- Linux (Ubuntu, Kali)<br><br><br>---<br><br>*🚀 Featured Projects*<br><br>1. *Plateforme IA d'Audit ISO 27005* — Application web avec IA pour auditer la conformité ISO 27005 (FastAPI + React + LLMs). Projet de mémoire de fin d'études.<br><br>2. *Lab Active Directory* — Setup complet d'un domaine Active Directory vulnérable pour s'entraîner aux attaques (Kerberoasting, AS-REP Roasting, Golden Ticket).<br><br>3. *Scripts d'Automatisation Ansible* — Playbooks Ansible pour le hardening de serveurs Linux et Windows.<br><br>4. *Outil de Scan Réseau* — Script Python de scan de ports et détection de services avec Nmap.<br><br>5. *Dashboard SIEM* — Tableau de bord pour corréler les logs de sécurité et détecter les anomalies.<br><br>---<br><br>*📊 GitHub Stats*<br><br>Je te conseille d'activer dans GPRM :<br>- ✅ GitHub Stats<br>- ✅ Streak Stats<br>- ✅ Most Used Languages<br>- ✅ Contribution Graph<br><br>---<br><br>*🌐 Social Links*<br><br>- 📧 Email : ahmedsy.sn@gmail.com<br>- 🔗 LinkedIn : www.linkedin.com/in/cheikh-ahmed-tidiane-sy-664490393/<br><br><br><br>---<br><br>*🎯 Fun Section (Optionnel)*<br><br>```<br>🌱 Currently Learning:   AI & LLMs appliqués à la cybersécurité, SOC Ops<br>⚡ Fun Fact:              J'ai un passport diplomatique mais je préfère hacker mon chemin vers le succès 😄<br>🔋 Currently Building:   [la plateforme audit ISO 27005 + IA — ma soutenance approche !<br>```<br><br>
 
-<!--
-**realtidiane/realtidiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/cheikh-tidiane-sy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@notsudo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedsy.sn@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=plastic&logo=Sequelize&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=plastic&logo=playwright&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=realtidiane&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=realtidiane&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=realtidiane&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=realtidiane&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=realtidiane&icon=5&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
