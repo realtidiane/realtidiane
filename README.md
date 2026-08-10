@@ -1,23 +1,102 @@
-# 💫 About Me:
-> Étudiant en Licence 3 Cybersécurité | EC2LT Dakar | Passionné par la cybersécurité offensive, la forensique et l'audit SIEM |<br><br>*Location :* Dakar, Sénégal 🇸🇳<br><br>---<br><br>*🛠️ Tech Stack*<br><br>*Sécurité :*<br>- Pentesting (recon, exploitation, post-exploitation)<br>- Forensique numérique<br>- SIEM (gestion des événements de sécurité)<br>- Active Directory<br>- Audit ISO 27005<br><br>*DevOps & Automation :*<br>- Ansible (automatisation)<br>- Git / GitHub<br>- Docker<br><br>*Développement :*<br>- Python<br>- React / TypeScript<br>- Node.js<br>- SQL<br><br><br>*OS & Réseaux :*<br>- Linux (Ubuntu, Kali)<br><br><br>---<br><br>*🚀 Featured Projects*<br><br>1. *Plateforme IA d'Audit ISO 27005* — Application web avec IA pour auditer la conformité ISO 27005 (FastAPI + React + LLMs). Projet de mémoire de fin d'études.<br><br>2. *Lab Active Directory* — Setup complet d'un domaine Active Directory vulnérable pour s'entraîner aux attaques (Kerberoasting, AS-REP Roasting, Golden Ticket).<br><br>3. *Scripts d'Automatisation Ansible* — Playbooks Ansible pour le hardening de serveurs Linux et Windows.<br><br>4. *Outil de Scan Réseau* — Script Python de scan de ports et détection de services avec Nmap.<br><br>5. *Dashboard SIEM* — Tableau de bord pour corréler les logs de sécurité et détecter les anomalies.<br><br>---<br><br>*📊 GitHub Stats*<br><br>Je te conseille d'activer dans GPRM :<br>- ✅ GitHub Stats<br>- ✅ Streak Stats<br>- ✅ Most Used Languages<br>- ✅ Contribution Graph<br><br>---<br><br>*🌐 Social Links*<br><br>- 📧 Email : ahmedsy.sn@gmail.com<br>- 🔗 LinkedIn : www.linkedin.com/in/cheikh-ahmed-tidiane-sy-664490393/<br><br><br><br>---<br><br>*🎯 Fun Section (Optionnel)*<br><br>```<br>🌱 Currently Learning:   AI & LLMs appliqués à la cybersécurité, SOC Ops<br>⚡ Fun Fact:              J'ai un passport diplomatique mais je préfère hacker mon chemin vers le succès 😄<br>🔋 Currently Building:   [la plateforme audit ISO 27005 + IA — ma soutenance approche !<br>```<br><br>
+<h1 align="center">Hi, I'm Tidiane 👋</h1>
 
+<p align="center">
+  <b>Cybersecurity student (BSc Year 3) @ EC2LT Dakar</b><br>
+  Offensive security · Digital forensics · SIEM & security auditing<br>
+  📍 Dakar, Senegal 🇸🇳
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/cheikh-tidiane-sy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@notsudo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedsy.sn@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=plastic&logo=Sequelize&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=plastic&logo=playwright&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=realtidiane&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=realtidiane&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=realtidiane&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=realtidiane&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://www.linkedin.com/in/cheikh-ahmed-tidiane-sy-664490393/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ahmedsy.sn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://tiktok.com/@notsudo"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok"></a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=realtidiane&icon=5&color=0)](https://visitcount.itsvg.in)
 
+## 🎯 About
+
+I'm a final-year cybersecurity student focused on the offensive and detection sides of security — pentesting, Active Directory attack paths, log correlation, and ISO 27005 risk auditing. I also build full-stack web applications, which is where most of my public code lives today.
+
+My thesis project applies LLMs to ISO 27005 compliance auditing (FastAPI + React). Defense is coming up soon.
+
+---
+
+## 🛠️ Tech Stack
+
+**Security**
+
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004C99?style=flat&logo=gnometerminal&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=windows&logoColor=white)
+
+Pentesting (recon → exploitation → post-exploitation) · Digital forensics · SIEM & log correlation · ISO 27005 risk assessment
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+
+**Infrastructure & Data**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📦 Projects
+
+**Public repositories**
+
+| Project | Description | Stack |
+|---|---|---|
+| [gestion-rdv](https://github.com/realtidiane/gestion-rdv) | Appointment management system for a healthcare facility | TypeScript |
+| [senchat](https://github.com/realtidiane/senchat) | Real-time messaging application | TypeScript |
+| [senegram](https://github.com/realtidiane/senegram) | Social/media sharing app | JavaScript |
+| [api-gestion-stock](https://github.com/realtidiane/api-gestion-stock) | REST API for inventory management | Node.js |
+| [chatbot](https://github.com/realtidiane/chatbot) | Conversational bot | JavaScript |
+
+**In progress — security work, not yet public**
+
+- **AI-Assisted ISO 27005 Audit Platform** — web app that uses LLMs to support ISO 27005 compliance audits (FastAPI + React). Final-year thesis project.
+- **Vulnerable Active Directory Lab** — full AD domain built to practice Kerberoasting, AS-REP Roasting and Golden Ticket attacks.
+- **Ansible Hardening Playbooks** — automated CIS-style hardening for Linux and Windows servers.
+- **Network Scanner** — Python port-scanning and service-detection tool built on Nmap.
+- **SIEM Dashboard** — log correlation and anomaly detection dashboard.
+
+> These will be published here as they reach a shareable state.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=realtidiane&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats">
+  <br>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=realtidiane&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages">
+</p>
+
+---
+
+## 🌱 Currently
+
+- **Learning:** LLMs applied to cybersecurity, SOC operations, detection engineering
+- **Building:** the ISO 27005 + AI audit platform — thesis defense approaching
+- **Open to:** internships and junior roles in SOC, pentesting or GRC
+
+📫 Reach me at **ahmedsy.sn@gmail.com** or on [LinkedIn](www.linkedin.com/in/cheikh-tidiane-sy).
