@@ -18,7 +18,7 @@
 
 I'm a final-year cybersecurity student focused on the offensive and detection sides of security — pentesting, Active Directory attack paths, log correlation, and ISO 27005 risk auditing. I also build full-stack web applications, which is where most of my public code lives today.
 
-My thesis project applies LLMs to ISO 27005 compliance auditing (FastAPI + React). Defense is coming up soon.
+My thesis project applies LLMs to ISO 27005 compliance auditing. Defense is coming up soon.
 
 ---
 
