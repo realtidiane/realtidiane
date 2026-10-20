@@ -91,9 +91,8 @@ REST API for product stock tracking.
 ## 🎓 Currently
 
 - 🎓 **Thesis**: LLMs applied to ISO 27005 compliance auditing
-- 🛡️ **Studying**: OSCP / eJPT certifications
-- ⚔️ **Practicing**: HackTheBox Pro Labs · VulnHub rooms
-- 💼 **Looking for**: Cybersecurity internships (offensive / defensive)
+- 🛡️ **self-taught**: Reverse Engineering / Forensic
+- ⚔️ **Practicing**: HackTheBox Pro Labs · VulnHub rooms · CTF
 
 ---
 
@@ -101,6 +100,5 @@ REST API for product stock tracking.
 
 - 💼 **LinkedIn**: [Cheikh Ahmed Tidiane Sy](https://www.linkedin.com/in/cheikh-ahmed-tidiane-sy-664490393/)
 - 📧 **Email**: [ahmedsy.sn@gmail.com](mailto:ahmedsy.sn@gmail.com)
-- 🎵 **TikTok**: [@notsudo](https://tiktok.com/@notsudo)
 
 > *"Hack the planet, ethically."*
