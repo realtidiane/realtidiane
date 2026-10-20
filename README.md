@@ -1,6 +1,6 @@
 # Hi, I'm Tidiane 👋
 
-**Cybersecurity student (BSc Year 3) @ EC2LT Dakar** · Offensive security · Digital forensics · SIEM & ISO 27005
+**Cybersecurity technician & Full-Stack Developper** · Offensive/Defensive security · Digital forensics · Reverse Engineering
 
 📍 Dakar, Senegal 🇸🇳 · 🎓 Defense coming up soon
 
