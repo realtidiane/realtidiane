@@ -53,25 +53,6 @@ I also build full-stack web apps - most of my **public** code, but the security 
 
 ---
 
-## 📦 Featured Projects
-
-### 🏥 Gestion RDV - Hospital appointment system (TypeScript)
-Full-stack medical scheduling system for healthcare facilities.
-[→ Repo](https://github.com/realtidiane/gestion-rdv)
-
-### 🤖 Senegram - Instagram-like social network (JavaScript)
-Social media clone built from scratch.
-[→ Repo](https://github.com/realtidiane/senegram)
-
-### 💬 Chatbot - NLP-powered assistant (JavaScript)
-Multi-purpose chatbot framework.
-[→ Repo](https://github.com/realtidiane/chatbot)
-
-### 📦 Stock API - Inventory management (JavaScript)
-REST API for product stock tracking.
-[→ Repo](https://github.com/realtidiane/api-gestion-stock)
-
----
 
 ## 📊 GitHub Stats
 
