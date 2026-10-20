@@ -21,7 +21,7 @@ Final-year cybersecurity student focused on the **offensive** and **detection** 
 - 📊 **SIEM & log correlation** - detecting the same TTPs I use offensively
 - 📋 **ISO 27005 risk auditing** - applying LLMs to compliance work (thesis)
 
-I also build full-stack web apps - most of my **public** code is TypeScript/JS, but the security work stays **private** until it's publishable.
+I also build full-stack web apps - most of my **public** code, but the security work stays **private** until it's publishable.
 
 ---
 
